@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/satadeep-nayak/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/satadeep-nayak/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/satadeep-nayak/LeetCode/tree/master/0136-single-number) |
+| [1470-shuffle-the-array](https://github.com/satadeep-nayak/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/satadeep-nayak/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
